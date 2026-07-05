@@ -68,5 +68,4 @@ Euclidean distance performed slightly better and produced smoother decision boun
 ---
 
 ## Note
-
 This project is an independent machine learning project and is not part of any group work.
