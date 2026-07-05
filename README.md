@@ -74,4 +74,4 @@ K-Nearest Neighbors (Euclidean) achieved the best performance among all tested m
 
 ## Note
 
-This project is an independent academic machine learning project and is not part of any group work.
+This project is an independent machine learning project and is not part of any group work.
